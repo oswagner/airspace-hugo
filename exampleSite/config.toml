@@ -5,6 +5,13 @@ paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
 title = "DBS Assessoria Empresarial e Contábil"
+[Languages.pt_br]
+contentDir = "content/portuguese"
+copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+home = "Inicio"
+languageCode = "pt-br"
+languageName = "Pt-br"
+weight = "1"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
