@@ -4,14 +4,14 @@ disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "DBS Assessoria Contábil"
+title = "DBS Assessoria Empresarial e Contábil"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = "1"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
